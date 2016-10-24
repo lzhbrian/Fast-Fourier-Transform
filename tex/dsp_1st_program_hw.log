@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.9.9)  24 OCT 2016 17:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.9.9)  24 OCT 2016 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1567,11 +1567,11 @@ LaTeX Font Warning: Font shape `EU1/ptm/bx/n' undefined
 . 
 . Could not resolve font STFangsong/I (it probably doesn't exist).
 .................................................
-LaTeX Font Info:    Try loading font information for EU1+pcr on input line 84.
-LaTeX Font Info:    No file EU1pcr.fd. on input line 84.
+LaTeX Font Info:    Try loading font information for EU1+pcr on input line 89.
+LaTeX Font Info:    No file EU1pcr.fd. on input line 89.
 
 LaTeX Font Warning: Font shape `EU1/pcr/m/n' undefined
-(Font)              using `EU1/lmr/m/n' instead on input line 84.
+(Font)              using `EU1/lmr/m/n' instead on input line 89.
 
 .................................................
 . fontspec info: "defining-font"
@@ -1585,7 +1585,7 @@ LaTeX Font Warning: Font shape `EU1/pcr/m/n' undefined
 .................................................
 
 LaTeX Font Warning: Font shape `EU1/pcr/bx/n' undefined
-(Font)              using `EU1/pcr/m/n' instead on input line 88.
+(Font)              using `EU1/pcr/m/n' instead on input line 93.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
