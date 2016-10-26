@@ -33,7 +33,7 @@ An Implementation of *__Fast Fourier Transform__*
 
 ## Usage:
 
-* __Model 1: Output__
+* __Mode 1: Output__
   * To output result of __N=2^k__ point __DFT / DIT-FFT / DIF-FFT__:
 
     ```sh
@@ -69,7 +69,7 @@ An Implementation of *__Fast Fourier Transform__*
 
 ## Output Result:
 
-* __Model 1: Output__
+* __Mode 1: Output__
 
   * The result of command __`./fft 8 1 4`__ may look like this:
 
@@ -109,7 +109,7 @@ An Implementation of *__Fast Fourier Transform__*
     	X[7] = 1.70711 + j*0.707107
     ```
 
-* __Model 2: Output__
+* __Mode 2: Output__
 
   * The result of command __`./fft 7 0 4`__ may look like this:
 
