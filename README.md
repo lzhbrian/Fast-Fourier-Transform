@@ -2,7 +2,25 @@
 
 An Implementation of *__Fast Fourier Transform__*
 
-
+```
+├── LICENSE
+├── README.md
+├── src
+│   ├── complex.h
+│   ├── dft.h
+│   ├── dif_fft.h
+│   ├── dit_fft.h
+│   ├── fft
+│   ├── fft.cpp
+│   └── validate_n_evaluate.h
+└── tex
+    ├── dsp_1st_program_hw.aux
+    ├── dsp_1st_program_hw.log
+    ├── dsp_1st_program_hw.pdf
+    ├── dsp_1st_program_hw.synctex.gz
+    ├── dsp_1st_program_hw.tex
+    └── dsp_1st_program_hw.toc
+```
 
 ## Info:
 
